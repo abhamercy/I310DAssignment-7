@@ -1,4 +1,5 @@
 # I310DAssignment-7
+wiki api link: https://pypi.org/project/Wikipedia-API/ 
 
 Introduction:  In this data analysis project, I explored poverty rates according to two different indicators: Poverty rates published by the World Bank and Poverty rates published by the CIA. We will use data from 142 countries collected by these organizations to calculate basic descriptive statistics, create visualizations, and examine the relationship between poverty rates according to the two indicators. My goal for this analysis was to gain a deeper understanding of the distribution and variability of poverty rates across different countries and regions, and to shed light on the challenges and complexities of measuring and addressing poverty around the world.
 
